@@ -26,7 +26,6 @@
 *.l text
 *.lang text
 *.ldefs text
-*.manifest text
 *.opinion text
 *.props text
 *.properties text
