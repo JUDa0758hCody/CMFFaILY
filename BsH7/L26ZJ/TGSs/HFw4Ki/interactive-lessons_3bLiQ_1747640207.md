@@ -144,7 +144,6 @@ Section 2 -- Scope.
 
             b. produce, reproduce, and Share Adapted Material.
 
-       2. Exceptions and Limitations. For the avoidance of doubt, where
           Exceptions and Limitations apply to Your use, this Public
           License does not apply, and You do not need to comply with
           its terms and conditions.
