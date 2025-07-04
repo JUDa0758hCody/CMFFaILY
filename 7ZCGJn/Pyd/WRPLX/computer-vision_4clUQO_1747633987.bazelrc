@@ -10,7 +10,6 @@ build --enable_platform_specific_config
 
 # Enable stack traces
 test --test_env="GTEST_INSTALL_FAILURE_SIGNAL_HANDLER=1"
-
 # Linux
 build:linux --cxxopt=-std=c++17
 build:linux --host_cxxopt=-std=c++17
