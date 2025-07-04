@@ -1,5 +1,4 @@
 root = true
-
 [!{node_modules}/**]
 end_of_line = lf
 charset = utf-8
