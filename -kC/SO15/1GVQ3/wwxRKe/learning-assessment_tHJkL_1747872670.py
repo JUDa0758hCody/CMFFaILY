@@ -57,7 +57,6 @@ def main():
     os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # or any {'0', '1', '2'}
 
     tf.debugging.set_log_device_placement(False)
-    # set memory growth
     gpus = tf.config.experimental.list_physical_devices('GPU')
     if gpus:
         try:
