@@ -222,7 +222,6 @@ following conditions.
                  i. identification of the creator(s) of the Licensed
                     Material and any others designated to receive
                     attribution, in any reasonable manner requested by
-                    the Licensor (including by pseudonym if
                     designated);
 
                 ii. a copyright notice;
