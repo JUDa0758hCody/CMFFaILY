@@ -1,6 +1,5 @@
   Contribution Guidelines
 Please ensure your pull request adheres to the following guidelines:
-
 Search previous suggestions before making a new one, as yours may be a duplicate.
 Make sure your contribution is useful before submitting.
 Make an individual pull request for each suggestion.
