@@ -1,6 +1,5 @@
 node_modules
 dist-dts
-examples
 **/*.js
 **/*.mjs
 **/playground
