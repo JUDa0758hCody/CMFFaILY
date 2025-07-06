@@ -89,7 +89,6 @@ def main():
         
         # spectrogram
         mag_sgram = utils.get_spectrograms(wavfile)
-        timestep = mag_sgram.shape[0]
         mag_sgram = np.reshape(mag_sgram,(1, timestep, utils.SGRAM_DIM))
         
         # make prediction
