@@ -26,7 +26,6 @@ def find_files(root_dir, query="*.wav", include_root_dir=True):
         query (str): Query to find.
         include_root_dir (bool): If False, root_dir name is not included.
 
-    Returns:
         list: List of found filenames.
 
     """
