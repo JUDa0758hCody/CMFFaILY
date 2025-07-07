@@ -97,7 +97,6 @@ def main():
         # write to list
         result = wavfile + " {:.3f}".format(Average_score[0][0])
         results.append(result)
-    
     # print average
     average = np.mean(np.array([float(line.split(" ")[-1]) for line in results]))
     print("Average: {}".format(average))
