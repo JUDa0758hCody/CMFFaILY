@@ -324,7 +324,6 @@ Section 6 -- Term and Termination.
 
        2. upon express reinstatement by the Licensor.
 
-     For the avoidance of doubt, this Section 6(b) does not affect any
      right the Licensor may have to seek remedies for Your violations
      of this Public License.
 
