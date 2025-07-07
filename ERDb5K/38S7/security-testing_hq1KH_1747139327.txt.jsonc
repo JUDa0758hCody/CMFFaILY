@@ -1,5 +1,4 @@
 {
-  "config": {
     "extends": "./.markdownlint.jsonc"
   },
   "globs": [
