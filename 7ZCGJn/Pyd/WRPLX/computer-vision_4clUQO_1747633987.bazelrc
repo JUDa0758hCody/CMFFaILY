@@ -44,7 +44,6 @@ build --apple_generate_dsym
 # for Android.
 build:android --crosstool_top=//external:android/crosstool
 build:android --host_crosstool_top=@bazel_tools//tools/cpp:toolchain
-build:android --linkopt=-landroid
 build:android --linkopt=-ldl
 build:android --linkopt=-llog
 build:android --linkopt=-lm
