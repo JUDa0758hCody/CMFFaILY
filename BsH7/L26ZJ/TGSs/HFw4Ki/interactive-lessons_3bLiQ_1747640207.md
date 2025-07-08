@@ -370,7 +370,6 @@ Section 8 -- Interpretation.
 
 
 =======================================================================
-
 Creative Commons is not a party to its public
 licenses. Notwithstanding, Creative Commons may elect to apply one of
 its public licenses to material it publishes and in those instances
