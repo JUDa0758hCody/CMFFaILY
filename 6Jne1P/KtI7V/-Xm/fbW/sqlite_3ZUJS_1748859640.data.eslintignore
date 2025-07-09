@@ -3,4 +3,3 @@ dist-dts
 **/*.js
 **/*.mjs
 **/playground
-integration-tests/tests/prisma/*/drizzle
