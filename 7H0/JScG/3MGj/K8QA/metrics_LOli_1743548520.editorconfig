@@ -19,7 +19,6 @@ indent_size = 4
 [Makefile]
 indent_style = tab
 
-# Indentation override for all JS under lib directory
 indent_size = 2
 # Matches the exact files either package.json or .travis.yml
 indent_style = space
