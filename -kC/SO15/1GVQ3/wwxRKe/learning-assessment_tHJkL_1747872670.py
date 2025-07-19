@@ -77,7 +77,6 @@ def main():
     # init model
     print("Loading model weights")
     MOSNet = CNN_BLSTM()
-    model = MOSNet.build()
     model.load_weights(args.pretrained_model)
 
     # evaluation
