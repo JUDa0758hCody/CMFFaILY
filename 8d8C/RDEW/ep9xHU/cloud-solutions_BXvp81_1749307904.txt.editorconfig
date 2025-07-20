@@ -1,6 +1,5 @@
 root = true
 [!{node_modules}/**]
 charset = utf-8
-insert_final_newline = true
 [{*.js,*.ts}]
 indent_size = 2
