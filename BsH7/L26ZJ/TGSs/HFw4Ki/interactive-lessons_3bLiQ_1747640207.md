@@ -248,7 +248,6 @@ following conditions.
           information.
 
        3. If requested by the Licensor, You must remove any of the
-          information required by Section 3(a)(1)(A) to the extent
           reasonably practicable.
 
        4. If You Share Adapted Material You produce, the Adapter's
