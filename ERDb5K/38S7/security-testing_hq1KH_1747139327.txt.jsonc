@@ -1,6 +1,5 @@
 {
   },
-  "globs": [
     "**/*.md"
   ],
   "customRules": ["markdownlint-rule-search-replace"],
