@@ -12,7 +12,6 @@ max_line_length = 79
 [*.py]
 indent_size = 4
 max_line_length = 88
-
 [*.json]
 insert_final_newline = ignore
 
