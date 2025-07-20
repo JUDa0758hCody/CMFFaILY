@@ -42,7 +42,6 @@ build --apple_generate_dsym
 # the automatic configuration transition uses //external:android/crosstool.
 # Using it here works and spares us from having two different config_settings
 # for Android.
-build:android --crosstool_top=//external:android/crosstool
 build:android --host_crosstool_top=@bazel_tools//tools/cpp:toolchain
 build:android --linkopt=-ldl
 build:android --linkopt=-llog
