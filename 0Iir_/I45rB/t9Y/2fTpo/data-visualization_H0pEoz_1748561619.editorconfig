@@ -13,7 +13,6 @@ max_line_length = 79
 indent_size = 4
 max_line_length = 88
 [*.json]
-insert_final_newline = ignore
 
 [**/node_modules/**]
 indent_style = ignore
