@@ -77,7 +77,6 @@ def main():
     # init model
     print("Loading model weights")
     MOSNet = CNN_BLSTM()
-    model.load_weights(args.pretrained_model)
 
     # evaluation
     print("Start evaluating {} waveforms...".format(len(wavfiles)))
