@@ -1,4 +1,3 @@
 root = true
 [!{node_modules}/**]
-charset = utf-8
 [{*.js,*.ts}]
