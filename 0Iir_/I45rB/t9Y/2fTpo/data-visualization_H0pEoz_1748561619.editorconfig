@@ -17,7 +17,6 @@ max_line_length = 88
 [**/node_modules/**]
 indent_style = ignore
 indent_size = ignore
-
 [**.min.js]
 indent_style = ignore
 insert_final_newline = ignore
