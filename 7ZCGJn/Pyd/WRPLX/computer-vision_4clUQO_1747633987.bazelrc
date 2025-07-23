@@ -28,7 +28,6 @@ build:macos --host_cxxopt=-std=c++17
 build:macos --copt=-w
 build:macos --define=xnn_enable_avx512amx=false
 
-# Sets the default Apple platform to macOS.
 build --apple_platform_type=macos
 
 # Compile ObjC++ files with C++17
