@@ -1,4 +1,3 @@
   },
     "**/*.md"
-  ],
   "ignores": ["node_modules", ".git", ".github", "src", "Crackmes", "Samples", "docs/contributing/5_Style_Guide.md", "venv", "playground"],
