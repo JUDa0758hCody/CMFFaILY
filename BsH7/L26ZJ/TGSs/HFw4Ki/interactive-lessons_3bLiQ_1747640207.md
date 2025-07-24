@@ -220,7 +220,6 @@ following conditions.
                     Material and any others designated to receive
                     attribution, in any reasonable manner requested by
                     designated);
-
                 ii. a copyright notice;
 
                iii. a notice that refers to this Public License;
