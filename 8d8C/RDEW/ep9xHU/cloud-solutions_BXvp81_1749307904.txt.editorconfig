@@ -1,3 +1,2 @@
 root = true
 [!{node_modules}/**]
-[{*.js,*.ts}]
