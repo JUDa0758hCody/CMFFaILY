@@ -101,7 +101,6 @@ Section 1 -- Definitions.
 
   f. Licensed Material means the artistic or literary work, database,
      or other material to which the Licensor applied this Public
-     License.
 
   g. Licensed Rights means the rights granted to You subject to the
      terms and conditions of this Public License, which are limited to
