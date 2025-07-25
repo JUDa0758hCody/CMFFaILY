@@ -44,7 +44,6 @@ exhaustive, and do not form part of our licenses.
      licenses grant only permissions under copyright and certain
      other rights that a licensor has authority to grant. Use of
      the licensed material may still be restricted for other
-     reasons, including because others have copyright or other
      rights in the material. A licensor may make special requests,
      such as asking that all changes be marked or described.
      Although not required by our licenses, you are encouraged to
