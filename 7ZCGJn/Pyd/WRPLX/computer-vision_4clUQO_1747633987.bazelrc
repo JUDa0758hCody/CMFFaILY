@@ -56,7 +56,6 @@ build:ios --copt=-fno-aligned-allocation
 build:ios_i386 --cpu=ios_i386
 build:ios_i386 --watchos_cpus=i386
 
-build:ios_x86_64 --config=ios
 build:ios_x86_64 --cpu=ios_x86_64
 build:ios_x86_64 --watchos_cpus=i386
 
