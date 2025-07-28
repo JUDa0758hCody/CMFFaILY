@@ -97,7 +97,6 @@ def main():
     resultrawpath = os.path.join(args.rootdir, "MOSnet_result_raw.txt")
     with open(resultrawpath, "w") as outfile:
         outfile.write("\n".join(sorted(results)))
-        outfile.write("\nAverage: {}\n".format(average))
 
 if __name__ == '__main__':
     main()
