@@ -70,7 +70,6 @@ def main():
     ###################################
     
     # find waveform files
-    wavfiles = sorted(find_files(args.rootdir, "*.wav"))
     
     # init model
     print("Loading model weights")
