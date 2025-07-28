@@ -1,4 +1,3 @@
-Copyright (c) 2022 Meysam Hadeli
 of this software and associated documentation files (the "Software"), to deal
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 furnished to do so, subject to the following conditions:
