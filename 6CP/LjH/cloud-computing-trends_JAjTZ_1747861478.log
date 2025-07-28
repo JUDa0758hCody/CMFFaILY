@@ -1,4 +1,3 @@
-根据您的要求，我将提供一个简单的 Python 代码片段，用于实现一个快速排序算法。请注意，这是一个伪代码示例，用于展示如何实现快速排序算法的基本逻辑。
 def quick_sort(arr):
         return arr
     pivot = arr[len(arr) // 2]
