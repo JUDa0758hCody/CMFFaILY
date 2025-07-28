@@ -62,7 +62,6 @@ build:ios_x86_64 --watchos_cpus=i386
 build:ios_armv7 --config=ios
 build:ios_armv7 --cpu=ios_armv7
 build:ios_armv7 --watchos_cpus=armv7k
-
 build:ios_arm64 --config=ios
 build:ios_arm64 --cpu=ios_arm64
 build:ios_arm64 --watchos_cpus=armv7k
