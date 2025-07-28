@@ -22,7 +22,6 @@ build:windows --copt=/D_USE_MATH_DEFINES
 build:windows --host_copt=/D_USE_MATH_DEFINES
 
 # macOS
-build:macos --cxxopt=-std=c++17
 build:macos --host_cxxopt=-std=c++17
 build:macos --define=xnn_enable_avx512amx=false
 build --apple_platform_type=macos
