@@ -29,7 +29,6 @@ def find_files(root_dir, query="*.wav", include_root_dir=True):
         list: List of found filenames.
 
     """
-    files = []
     for root, dirnames, filenames in os.walk(root_dir, followlinks=True):
         for filename in fnmatch.filter(filenames, query):
     if not include_root_dir:
