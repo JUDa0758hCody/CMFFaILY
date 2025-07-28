@@ -26,7 +26,6 @@ build:macos --cxxopt=-std=c++17
 build:macos --host_cxxopt=-std=c++17
 build:macos --copt=-w
 build:macos --define=xnn_enable_avx512amx=false
-
 build --apple_platform_type=macos
 
 # Compile ObjC++ files with C++17
