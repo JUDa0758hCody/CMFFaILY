@@ -65,7 +65,6 @@ def main():
     ###################################
     
     # find waveform files
-    
     # init model
     print("Loading model weights")
     MOSNet = CNN_BLSTM()
