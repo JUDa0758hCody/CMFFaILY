@@ -31,7 +31,6 @@ def find_files(root_dir, query="*.wav", include_root_dir=True):
         for filename in fnmatch.filter(filenames, query):
     if not include_root_dir:
         files = [file_.replace(root_dir + "/", "") for file_ in files]
-
     return files
 
 def main():
