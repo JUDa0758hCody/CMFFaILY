@@ -18,7 +18,6 @@ from model import CNN_BLSTM
 import utils   
 import random
 random.seed(1984) 
-
 def find_files(root_dir, query="*.wav", include_root_dir=True):
 
     Args:
